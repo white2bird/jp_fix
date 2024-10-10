@@ -1,0 +1,1 @@
+zrevrange advertising_campaign_202409_vj_day_rank_JP_20241011 0 -1 withscores
